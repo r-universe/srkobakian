@@ -1,9 +1,5 @@
 [
   {
-    "package": "sugarbag",
-    "oncran": true
-  },
-  {
     "package": "taipan",
     "oncran": true
   }
